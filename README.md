@@ -463,7 +463,7 @@ The project is based on concepts and documentation related to:
 
 **MBA – Business Analytics**
 
-**Shri Vaishnav Vidhyapeeth Vishwavidyalaya**
+**Shri Vaishnav Vidyapeeth Vishwavidyalaya**
 
 ---
 
