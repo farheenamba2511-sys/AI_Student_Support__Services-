@@ -459,7 +459,7 @@ The project is based on concepts and documentation related to:
 
 ## 👩‍💻 Author
 
-**Palak Yadav**
+**Farheen Ansari**
 
 **MBA – Business Analytics**
 
